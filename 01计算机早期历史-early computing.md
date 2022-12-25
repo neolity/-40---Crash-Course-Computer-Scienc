@@ -1,5 +1,6 @@
 early computing
 ========================
+# 笔者个人笔记, 并不详实, 请务必查阅视频
 # 前言引入 
 ## 计算机早期历史/视频导读
    提到的设备: 算盘-->步进计算器-->差分机-->分析机-->打孔卡片制表机；
@@ -58,7 +59,7 @@ Lovelace给分析机写了假想程序。因站为于第一位程序员；
 
 * **Census Questions**：It was predicted that the 1890 census would take 13 years to compute.That's a lttle problematic when itisrequiredeverydecade!
 
-* **人口普查解决办法**：人口普查局找了Herman Hollerth，他发明了打孔卡片制表机，他的机器是"电动机械的"。Hollerith的机器用打孔卡，一种纸卡，上面有网格，用打孔来表示数据。当卡插入Hollerith的机器时，**小金属针会点到卡片上**,如果有个地方**已打孔了,针会穿过孔泡入一小瓶汞，联通电路**,
+* **人口普查解决办法**：人口普查局找了Herman Hollerth，他发明了打孔卡片制表机，他的机器是"电动机械的"。Hollerith的机器用打孔卡，一种纸卡，上面有网格，用打孔来表示数据。当卡插入Hollerith的机器时，**小金属针会点到卡片上**,如果有个地方**已打孔了,针会穿过孔泡入一小瓶汞，联通电路**.
 
 * **Census Solutions**：The Census bureau turned to Herman Hollerith, who had built a tabulating machine.His machine was "electro-mechanical".Hollerith's machine used punch cards,which were paper cards with a grid of locations that can be punched out to represent data.then when the card was inserted into Hollerith's machine, **lttle metal pins would come down over the card**,if **a spot was punched out**, the **pin would pass through the hole** in the paper and into a little vial of mercury, which **completed the circuit**.
 
